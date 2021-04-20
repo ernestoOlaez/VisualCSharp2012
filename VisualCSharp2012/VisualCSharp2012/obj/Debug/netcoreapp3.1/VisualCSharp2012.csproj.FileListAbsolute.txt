@@ -1,0 +1,13 @@
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\bin\Debug\netcoreapp3.1\VisualCSharp2012.exe
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\bin\Debug\netcoreapp3.1\VisualCSharp2012.deps.json
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\bin\Debug\netcoreapp3.1\VisualCSharp2012.runtimeconfig.json
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\bin\Debug\netcoreapp3.1\VisualCSharp2012.runtimeconfig.dev.json
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\bin\Debug\netcoreapp3.1\VisualCSharp2012.dll
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\bin\Debug\netcoreapp3.1\VisualCSharp2012.pdb
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.csprojAssemblyReference.cache
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.AssemblyInfoInputs.cache
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.AssemblyInfo.cs
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.csproj.CoreCompileInputs.cache
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.dll
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.pdb
+C:\Git\VisualCSharp2012\VisualCSharp2012\VisualCSharp2012\obj\Debug\netcoreapp3.1\VisualCSharp2012.genruntimeconfig.cache
